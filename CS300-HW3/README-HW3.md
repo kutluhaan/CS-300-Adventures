@@ -1,0 +1,1 @@
+In this project, a Binary Search Tree and a Hash Table implementation is present and the purpose of the project is comparing the searching performances of Hash Table data structure and Binary Search Tree data structure.
