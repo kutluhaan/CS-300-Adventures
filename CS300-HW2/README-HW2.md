@@ -1,0 +1,1 @@
+In the second project of CS 300, an templated AVL tree implementation can be found. In the AVL Tree implementation, the words are stored which are stored in the txt files named as a.txt, b.txt and so on. And a searching algorithm is implemented to find a given word on AVL Tree. 
